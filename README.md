@@ -84,6 +84,16 @@ Restart Rhino and launch Grasshopper. You will see the new **Color Wheel button*
 4. When finished, simply click the toolbar button again or press `[X]` to close the window.
 
 ---
+# Grasshopper Color & Nickname Tool
+
+[⬇️ Download GrasshopperColorTool_v1.0.0.zip](https://github.com/nhannguyenteklatool/GrasshopperColorTool/releases/download/v1.0.0/GrasshopperColorTool_v1.0.0.zip)
+
+[![Downloads](https://img.shields.io/github/downloads/nhannguyenteklatool/GrasshopperColorTool/total)](https://github.com/nhannguyenteklatool/GrasshopperColorTool/releases)
+[![Release](https://img.shields.io/github/v/release/nhannguyenteklatool/GrasshopperColorTool)](https://github.com/nhannguyenteklatool/GrasshopperColorTool/releases/latest)
+
+A lightweight, productivity-boosting plugin for **Rhino Grasshopper** (Rhino 7 & Rhino 8 on Windows)...
+
+---
 
 ## 📄 License
 This project is released under the **MIT License**. Free for personal and commercial use.
